@@ -1,4 +1,4 @@
-# arduino_in_altium
+# arduino_PCB_altium
 
 Here are the resulting 3D model pictures for quick view. STEP files and 3D pdf's can be found in the corresponding project folder.
 
